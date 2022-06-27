@@ -1,7 +1,43 @@
 body {
-  background-color: blue;
+  padding: 80px 40px 60px 40px;
 }
 
 h1 {
-  text-align: center;
+  display: none;
+}
+
+h2 {
+  padding-top: 80px;
+}
+
+h3 {
+  padding-top: 20px;
+}
+
+img {
+  width: 100%;
+}
+
+p {
+  padding: 20px;
+}
+
+.learn-more {
+  border-radius: 50px;
+  margin: 0 auto;
+  background-color: #000;
+  border: 1px solid #000;
+  color: #fff;
+  font-size: 18px;
+  line-height: 22px;
+  padding: 16px 24px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 150ms ease-in-out;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.learn-more:hover {
+  background: #fff;
+  color: #000;
 }

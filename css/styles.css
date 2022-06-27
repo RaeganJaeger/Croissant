@@ -41,3 +41,7 @@ p {
   background: #fff;
   color: #000;
 }
+
+.hidden-h1 {
+  display: none;
+}

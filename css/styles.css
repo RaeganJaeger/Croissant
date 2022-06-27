@@ -6,10 +6,6 @@ h1 {
   display: none;
 }
 
-h2 {
-  padding-top: 80px;
-}
-
 h3 {
   padding-top: 20px;
 }
@@ -44,4 +40,16 @@ p {
 
 .hidden-h1 {
   display: none;
+}
+
+.engineering {
+  padding: 0px 0px 20px 0px;
+}
+
+.art {
+  padding: 0px 0px 20px 0px;
+}
+
+.art:hover {
+  opacity: 50%;
 }
